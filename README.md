@@ -3,6 +3,8 @@ This is a repository of C2 IP addresses seen in use by Solarmarker.
 
 These IP addresses tend to change weekly, but I am hosting a list of previously seen IP for the sake of documentation. It can also be interesting to visualize them in various ways to determine if there are trends. At this point, I am only providing the IP addresses. Visualization and other aspects are up to you.
 
+The IP addresses and hostnames are taken directly from the executables. If you have a list of IP to add, let me know and let me know how you extracted them. I am weary of adding any IP/Hostnames that I can't validate myself.
+
 I personally maintain an [OTX for AlienVault](https://otx.alienvault.com/pulse/60cf75bfb13dce62b5febdb1). The IP addresses in the OTX are set to expire after 1 month due to the frequent changes of C2. The intention is to reduce false positives by allowing the IP to expire. This repository is also intended to be a historical list of C2 that have been used.
 
 
