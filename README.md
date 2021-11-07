@@ -1,5 +1,5 @@
 # SolarmakerC2Servers
-This is a repository of C2 IP addresses seen in use by Solarmarker.
+This is a repository of C2 IP addresses seen in use by Solarmarker. Per [Prodaft's analysis](https://www.prodaft.com/resource/detail/solarmarker-depth-analysis-report), the IP addresses point to Load Balancers that point to the Admin panel and Management pane;. See their report linked above for more details.
 
 These IP addresses tend to change weekly, but I am hosting a list of previously seen IP for the sake of documentation. It can also be interesting to visualize them in various ways to determine if there are trends. At this point, I am only providing the IP addresses. Visualization and other aspects are up to you.
 
